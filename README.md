@@ -44,12 +44,8 @@ Add capacitor platform one: `npm install @capacitor/android`
 - After every build (important!): `npx cap copy`
 
 - Open Android IDE (after latest build): `npx cap open android`
-- You can use life reload: `ionic cap run android --l --external`
-
+- Or use life reload: `ionic cap run android --l --external`
 - Profit. :tada:
-
-### Try also
-ionic cap run android -l --external
 
 ## NPM packages used for this app
 
